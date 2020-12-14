@@ -1,5 +1,4 @@
 FROM node:latest
-
 MAINTAINER Alex Kilgour "alex@kil.gr"
 
 RUN apt-get update
