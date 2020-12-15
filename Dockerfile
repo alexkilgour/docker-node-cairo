@@ -1,4 +1,4 @@
-FROM node:latest
+FROM node:15.4
 MAINTAINER Alex Kilgour "alex@kil.gr"
 
 # Install Cairo dependencies
